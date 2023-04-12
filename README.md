@@ -15,6 +15,4 @@ Before launching the app on your phone you have to install [ARCore](https://gith
 You can check if your device is supported on [this list](https://developers.google.com/ar/discover/#supported_devices)
 
 
-## Contributors
-Jonas Jongejan, Dan Moore
- 
+
